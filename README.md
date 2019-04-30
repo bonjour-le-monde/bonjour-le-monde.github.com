@@ -1,1 +1,1 @@
-# bonjour-le-monde.github.com
+# bonjour-le-monde.github.io
